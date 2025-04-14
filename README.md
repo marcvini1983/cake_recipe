@@ -1,2 +1,2 @@
 # cake_recipe
-Cake recipe html and css
+This is an exercise made for Bytes4Future coding school
